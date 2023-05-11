@@ -1,0 +1,10 @@
+Shopping Website
+
+I want to say I am very impressed with your progress in the course ! 
+You made a very nice website and used functions , if statements and dom manipulation.
+You did have some bugs when i opend the website but most is good.
+You products I would add to the dom not straight into the html file but I would have maybe an array of objects
+where each object is an item with its name price and image- and then in javascript you can do a forEach loop and for each object in the array create
+an element in your html.
+
+Fantastic job and waiting to see what you do next !!!!
